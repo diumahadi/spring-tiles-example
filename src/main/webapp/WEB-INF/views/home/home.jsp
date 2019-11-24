@@ -1,0 +1,3 @@
+<div class="main-contnet">
+    Main page content goes here...
+</div>
